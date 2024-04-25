@@ -1,0 +1,8 @@
+D:\Курсы по программированию\C#\Exam\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+D:\Курсы по программированию\C#\Exam\Exam\Exam\obj\Debug\Exam.csproj.SuggestedBindingRedirects.cache
+D:\Курсы по программированию\C#\Exam\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Курсы по программированию\C#\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+D:\Курсы по программированию\C#\Exam\Exam\Exam\bin\Debug\Exam.exe
+D:\Курсы по программированию\C#\Exam\Exam\Exam\bin\Debug\Exam.pdb
+D:\Курсы по программированию\C#\Exam\Exam\Exam\obj\Debug\Exam.exe
+D:\Курсы по программированию\C#\Exam\Exam\Exam\obj\Debug\Exam.pdb
